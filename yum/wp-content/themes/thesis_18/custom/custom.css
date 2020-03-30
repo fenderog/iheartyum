@@ -1,0 +1,38 @@
+.custom {background-image: url("images/bg.jpg");}
+.custom .entry-content p {font-family: Helvetica,Arial,sans-serif;color: #666;font-size: 13px;text-transform: none;line-height: 22px;}
+.custom .entry-content a, .teaser a {outline: medium none;text-decoration: none;color: #007e8c;}
+.custom .entry-content a:hover, a:focus, a:active {outline: none;}
+.custom #categories-3 ul li a {background: #c7e4df repeat scroll 0 0 transparent;border-bottom: 1px dashed #ccc;color: #666;display: block;margin: 0 0 0px;text-decoration: none;font-family: Helvetica,Arial,Trebuchet MS,Verdana;font-size: 11px;line-height: 22px;text-align: center;}
+.custom #categories-3 li {margin-bottom: 0px;}
+.custom #categories-3 li a:hover {background: none repeat scroll 0 0 #eee;text-decoration: none;}
+.custom #linkcat-2 ul li a {background: #c7e4df repeat scroll 0 0 transparent;border-bottom: 1px dashed #ccc;color: #666;display: block;margin: 0 0 0px;text-decoration: none;font-family: Helvetica,Arial,Trebuchet MS,Verdana;font-size: 11px;line-height: 22px;text-align: center;text-justify: left;}
+.custom #linkcat-2 li {margin-bottom: 0px;}
+.custom #linkcat-2 li a:hover {background: none repeat scroll 0 0 #eee;text-decoration: none;}
+.custom h2, .custom h2 a, .custom h1 {font-family: Georgia,"Times New Roman",Times,serif;font-size: 25px;font-style: italic;font-weight: normal;line-height: 28px;text-transform: none;color: #666;}
+.custom h2 a:hover {font-family: Georgia,"Times New Roman",Times,serif;font-size: 25px;font-style: italic;font-weight: normal;line-height: 28px;text-decoration: underline;color: #666;}
+.custom .sidebar .widget h3 {color: #666;font-family: Georgia,"Times New Roman",Times,serif;font-size: 18px;font-style: italic;font-weight: normal;text-align: center;margin: 0;padding: 5px 0 10px;background: url("images/widget_title_bg.jpg") repeat-x scroll 0 0 #fff;}
+.custom .sidebar .widget span {background: none repeat scroll 0 0 #fff;padding: 0 5px;}
+.custom .sidebar #s {background: #666 repeat scroll 0 0 #fff;border: 1px solid #ccc;color: #666;display: inline;font-family: Helvetica,Arial,Trebuchet MS,Verdana;font-size: 12px;margin: 0;padding: 6px 4px;width: 96%;text-align: center;}
+.custom #sidebar_1 {margin-left: 10px;}
+.custom .sidebar li.widget {margin-bottom: 5px;}
+.custom .size-full {-webkit-border-radius: 8px;-moz-border-radius: 8px;border-radius: 8px;display: block;margin-left: auto;margin-right: auto;border: 1px solid #ddd;}
+.custom .size-full img {opacity: 0;margin-left: auto;margin-right: auto;}
+.custom #content p {text-align: justify;color: #666;}
+.custom .reply a {color: #999 !important;font-size: 15px !important;text-transform: none !important;}
+.custom .reply {margin-top: -15px;}
+.custom .avatar img {float: left;margin-left: 0px;margin-right: 15px;}
+.custom #logo {background-image: url("http://fenderog.github.io/iheartyum/yum/wp-content/themes/thesis_18/custom/images/logo2.png");background-repeat: no-repeat;padding: 0;float: right;position: relative;top: 16px;}
+.custom #header {background-image: none;}
+.custom .wp-caption-text {text-align: center !important;}
+.custom .wp-caption {border-style: none;background-color: white;padding: inherit;}
+.custom .flickr img {margin-right: 5px;}
+.custom .flickr #flickr_images_box {margin-left: 12px;}
+.custom #related_posts h3 {background: url("images/widget_title_bg.jpg") repeat-x scroll 0 0 #fff;color: #666;font-family: Georgia,"Times New Roman",Times,serif;font-size: 18px;font-style: italic;font-weight: normal;margin: 0;margin-bottom: 15px;padding: 5px 0 10px;text-align: center;}
+.custom #related_posts span {background: none repeat scroll 0 0 #fff;padding: 0 5px;}
+.custom #comments_title h3 {background: url("images/widget_title_bg.jpg") repeat-x scroll 0 0 #fff;color: #666;font-family: Georgia,"Times New Roman",Times,serif;font-size: 18px;font-style: italic;font-weight: normal;margin: 0;margin-bottom: -30px;padding: 5px 0 10px;text-align: center;}
+.custom #comments_title span {background: none repeat scroll 0 0 #fff;padding: 0 5px;}
+.custom #comments_intro {display: none;}
+.custom dl#comment_list {border-top: none;}
+.custom #header {margin-top: -25px !important;}
+.custom #container {padding-left: 40px;padding-right: 40px;background: url("http://fenderog.github.io/iheartyum/yum/wp-content/themes/thesis_18/custom/images/shadow.png") repeat-y;}
+.custom .quick-flickr-item img {width: 185px;}
