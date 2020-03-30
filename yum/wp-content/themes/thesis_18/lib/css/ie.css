@@ -1,0 +1,7 @@
+.menu {width: 100%;}
+input.form_submit {width: auto;overflow: visible;}
+.menu a:hover {height: auto;}
+.menu table td {font-size: 10px;}
+#content, .sidebar {overflow: hidden;}
+dl#comment_list dd {border-bottom: 1px dotted #bbb;}
+dl#comment_list dl.children dd {border-bottom: 0;}
